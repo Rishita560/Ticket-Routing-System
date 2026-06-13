@@ -1,0 +1,196 @@
+text,category,priority
+cannot login to account,account issue,high
+forgot password cannot reset,account issue,medium
+account locked after multiple attempts,account issue,high
+unable to update profile information,account issue,medium
+email verification not working,account issue,medium
+cannot change account password,account issue,medium
+account suspended without reason,account issue,high
+profile picture upload failing,account issue,low
+unable to connect my account,account issue,medium
+account login page not responding,account issue,high
+account recovery email not received,account issue,medium
+account details not saving,account issue,low
+payment deducted but order not placed,billing issue,high
+need refund for wrong charge,billing issue,high
+invoice not generated,billing issue,medium
+charged twice for subscription,billing issue,high
+refund not processed yet,billing issue,high
+payment gateway showing error,billing issue,high
+incorrect billing amount displayed,billing issue,medium
+subscription renewal failed,billing issue,medium
+payment page crashing,billing issue,high
+unable to download invoice,billing issue,low
+refund request pending too long,billing issue,high
+payment confirmation not received,billing issue,medium
+website shows server error,technical issue,high
+application crashes on login,technical issue,high
+page not loading properly,technical issue,medium
+search feature not working,technical issue,medium
+dashboard taking too long to load,technical issue,medium
+website stuck on loading screen,technical issue,high
+file upload not working,technical issue,medium
+error while submitting form,technical issue,medium
+mobile app crashes frequently,technical issue,high
+notification system not working,technical issue,low
+data not updating on dashboard,technical issue,medium
+system showing unknown error,technical issue,high
+request new dashboard feature,feature request,low
+please add dark mode,feature request,low
+add export to pdf option,feature request,low
+request integration with google drive,feature request,low
+need multi language support,feature request,low
+please add notification settings,feature request,low
+suggest adding mobile widgets,feature request,low
+add option to customize dashboard,feature request,low
+add advanced search filters,feature request,low
+please include auto save feature,feature request,low
+need ability to schedule reports,feature request,low
+add two factor authentication option,feature request,medium
+add user activity logs feature,feature request,low
+request calendar integration,feature request,low
+internet connection keeps disconnecting,technical issue,high
+wifi not working after router restart,technical issue,high
+unable to connect to broadband service,technical issue,medium
+network connectivity issue since morning,technical issue,medium
+router showing red light and internet unavailable,technical issue,high
+internet speed is extremely slow,technical issue,medium
+website cannot connect to server,technical issue,high
+vpn connection disconnects repeatedly,technical issue,medium
+network error while accessing application,technical issue,high
+unable to access internet on mobile app,technical issue,medium
+broadband service down for several hours,technical issue,high
+router configuration page not opening,technical issue,medium
+dns resolution error while browsing,technical issue,medium
+internet connection lost after update,technical issue,high
+wireless network keeps dropping,technical issue,medium
+charged twice for monthly subscription,billing issue,high
+payment deducted but service not activated,billing issue,high
+incorrect invoice amount generated,billing issue,medium
+refund has not been received yet,billing issue,high
+duplicate transaction visible in account,billing issue,medium
+unexpected charges on billing statement,billing issue,medium
+auto renewal charged without permission,billing issue,high
+billing amount higher than expected,billing issue,medium
+payment successful but account still unpaid,billing issue,high
+tax amount calculated incorrectly,billing issue,low
+forgot password and cannot login,account issue,medium
+account locked after multiple login attempts,account issue,high
+password reset email not received,account issue,medium
+unable to verify email address,account issue,medium
+login page keeps showing invalid credentials,account issue,high
+account suspended without reason,account issue,high
+profile information cannot be updated,account issue,low
+two factor authentication not working,account issue,medium
+username not recognized by system,account issue,medium
+unable to access account dashboard,account issue,high
+please add dark mode support,feature request,low
+need export data to excel feature,feature request,medium
+add multi language support in application,feature request,low
+dashboard should allow custom filters,feature request,medium
+provide option to schedule reports,feature request,medium
+add biometric login support,feature request,low
+need notification customization settings,feature request,low
+allow users to download analytics reports,feature request,medium
+add integration with google calendar,feature request,medium
+provide advanced search functionality,feature request,low
+wifi keeps disconnecting during usage,technical issue,high
+unable to access network resources,technical issue,medium
+router restarting automatically,technical issue,high
+internet unavailable after system update,technical issue,high
+slow network performance throughout the day,technical issue,medium
+application unable to reach server,technical issue,high
+server timeout error appears frequently,technical issue,high
+network packet loss causing interruptions,technical issue,medium
+unable to establish vpn connection,technical issue,medium
+internet connection unstable on mobile device,technical issue,medium
+website returns internal server error,technical issue,high
+api requests failing unexpectedly,technical issue,high
+backend server not responding,technical issue,high
+connection refused while accessing application,technical issue,high
+website loading very slowly,technical issue,medium
+system freezes while processing request,technical issue,medium
+database connection lost unexpectedly,technical issue,high
+unable to upload files to server,technical issue,medium
+application stuck during startup,technical issue,medium
+network adapter not detected,technical issue,high
+subscription charged incorrectly,billing issue,high
+refund request rejected unexpectedly,billing issue,high
+monthly invoice missing,billing issue,medium
+duplicate charge on credit card,billing issue,high
+payment not reflected in account,billing issue,high
+incorrect tax charged,billing issue,medium
+service billed despite cancellation,billing issue,high
+payment processing failed repeatedly,billing issue,high
+refund amount not credited,billing issue,high
+unexpected renewal charge,billing issue,medium
+invoice contains wrong details,billing issue,medium
+extra charges added to bill,billing issue,medium
+discount not applied during payment,billing issue,medium
+subscription fee deducted twice,billing issue,high
+payment receipt unavailable,billing issue,low
+billing statement inaccurate,billing issue,medium
+refund status not updated,billing issue,medium
+incorrect payment confirmation,billing issue,medium
+payment gateway transaction failed,billing issue,high
+invoice generation taking too long,billing issue,low
+unable to sign into account,account issue,high
+password reset page unavailable,account issue,medium
+account access denied unexpectedly,account issue,high
+login credentials not accepted,account issue,high
+unable to verify user identity,account issue,medium
+account temporarily disabled,account issue,high
+profile update not saving,account issue,low
+email address cannot be changed,account issue,medium
+account recovery process failing,account issue,high
+security verification not working,account issue,medium
+unable to complete registration,account issue,medium
+account locked after password reset,account issue,high
+username unavailable during login,account issue,medium
+verification code never arrives,account issue,medium
+unable to manage account settings,account issue,low
+two factor code invalid,account issue,medium
+authentication process failing,account issue,high
+login session expires immediately,account issue,medium
+unable to link account,account issue,medium
+account permissions incorrect,account issue,medium
+add chatbot support feature,feature request,low
+enable dashboard themes,feature request,low
+provide report scheduling option,feature request,medium
+add voice search capability,feature request,medium
+allow custom notification rules,feature request,low
+support third party integrations,feature request,medium
+add user tagging functionality,feature request,low
+enable offline mode support,feature request,medium
+provide customizable widgets,feature request,low
+add workflow automation tools,feature request,medium
+support dark theme customization,feature request,low
+allow exporting reports to csv,feature request,low
+integrate with microsoft teams,feature request,medium
+provide real time collaboration,feature request,medium
+add custom dashboard layouts,feature request,low
+support biometric authentication,feature request,medium
+add activity tracking module,feature request,low
+allow bulk data operations,feature request,medium
+provide advanced filtering options,feature request,low
+add reminder notification system,feature request,low
+production server is down,technical issue,high
+entire website unavailable,technical issue,high
+all users unable to login,technical issue,high
+critical service outage,technical issue,high
+system unavailable for all customers,technical issue,high
+website completely inaccessible,technical issue,high
+application down for all users,technical issue,high
+major system outage affecting customers,technical issue,high
+critical server failure detected,technical issue,high
+production environment not responding,technical issue,high
+all services unavailable after deployment,technical issue,high
+customers unable to access platform,technical issue,high
+backend servers have stopped working,technical issue,high
+emergency outage impacting all users,technical issue,high
+database server unavailable,technical issue,high
+login service down across the platform,technical issue,high
+website returns 500 error for every request,technical issue,high
+complete network outage in production,technical issue,high
+application unavailable globally,technical issue,high
+critical infrastructure failure detected,technical issue,high
