@@ -34,10 +34,6 @@ priority_model.fit(X, y_priority)
 pred = category_model.predict(X_test)
 print("Category Accuracy:", accuracy_score(y_test, pred))
 
-# EVALUATION (ADDED)
-pred = category_model.predict(X_test)
-print("Category Accuracy:", accuracy_score(y_test, pred))
-
 model_dir = "../models"
 if not os.path.exists(model_dir):
     os.makedirs(model_dir)
