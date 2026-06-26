@@ -1,4 +1,4 @@
-<img width="1898" height="910" alt="image" src="https://github.com/user-attachments/assets/321df9b2-ab93-4b5d-858b-f500de486ef6" /># 🎫 AI-Powered Customer Support Ticket Management System
+<img width="1867" height="910" alt="image" src="https://github.com/user-attachments/assets/9d01b003-a191-4362-96f9-bacdcc0d74c2" />🎫 AI-Powered Customer Support Ticket Management System
 
 > An intelligent customer support platform that automates ticket categorization, priority prediction, and agent assignment using Machine Learning.
 
@@ -315,6 +315,30 @@ AI-Ticket-System/
 - Uses Logistic Regression instead of transformer-based NLP models.
 
 ---
+
+## 📸 Screenshots
+
+- Login Page
+
+<img width="1903" height="907" alt="image" src="https://github.com/user-attachments/assets/f8fde566-6b74-4b63-94ca-b5be66c19324" />
+
+- User Dashboard
+
+  <img width="1893" height="902" alt="image" src="https://github.com/user-attachments/assets/77153258-b9bf-43b1-b33b-07e7fd369c11" />
+
+- Ticket Submission
+
+  <img width="1867" height="910" alt="image" src="https://github.com/user-attachments/assets/a08b6715-b895-464a-88a3-6e2ca50c0c72" />
+
+- Admin Dashboard
+
+  <img width="1872" height="877" alt="image" src="https://github.com/user-attachments/assets/5d9eb076-009b-41d1-b55c-089d6b29427d" />
+
+
+- Analytics Dashboard
+
+  <img width="1857" height="912" alt="image" src="https://github.com/user-attachments/assets/d5a8138d-ac9d-4811-b890-4888ee4433af" />
+
 
 ## 💡 Learning Outcomes
 
