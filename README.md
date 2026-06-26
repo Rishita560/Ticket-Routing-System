@@ -1,4 +1,4 @@
-<img width="1867" height="910" alt="image" src="https://github.com/user-attachments/assets/9d01b003-a191-4362-96f9-bacdcc0d74c2" />🎫 AI-Powered Customer Support Ticket Management System
+🎫 AI-Powered Customer Support Ticket Management System
 
 > An intelligent customer support platform that automates ticket categorization, priority prediction, and agent assignment using Machine Learning.
 
